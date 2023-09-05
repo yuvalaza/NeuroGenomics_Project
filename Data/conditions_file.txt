@@ -1,0 +1,1 @@
+condition	typeC1	untreated	single-readC2	untreated	single-readC3	untreated	single-readKO1	treated	single-readKO2	treated	single-readKO3	treated	single-read
